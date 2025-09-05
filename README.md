@@ -1,0 +1,1 @@
+SpoolTrack placeholder - re-run generation if missing files.
